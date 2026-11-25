@@ -2,6 +2,6 @@ name: astrbot_plugin_search_video
 display_name: 搜索视频
 desc: 搜索视频并下载，让你和群友直接在群内一起刷视频
 help: 略
-version: v1.4.1
+version: v1.4.2
 author: 饰乐
 repo: https://github.com/Zhalstar/astrbot_plugin_search_video
